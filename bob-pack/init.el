@@ -5,3 +5,7 @@
 
 ;; Load bindings config
 (live-load-config-file "bindings.el")
+
+(live-add-pack-lib "company-mode")
+(require 'company)
+(global-company-mode t)

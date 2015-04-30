@@ -1,0 +1,15 @@
+[submodule "ruby-pack/lib/ruby-refactor"]
+	path = ruby-pack/lib/ruby-refactor
+	url = git@github.com:ajvargo/ruby-refactor.git
+[submodule "ruby-pack/lib/rvm"]
+	path = ruby-pack/lib/rvm
+	url = git@github.com:senny/rvm.el.git
+[submodule "ruby-pack/lib/robe"]
+	path = ruby-pack/lib/robe
+	url = git@github.com:dgutov/robe.git
+[submodule "bob-pack/lib/company-mode"]
+	path = bob-pack/lib/company-mode
+	url = git@github.com:company-mode/company-mode.git
+[submodule "ruby-pack/lib/inf-ruby"]
+	path = ruby-pack/lib/inf-ruby
+	url = git@github.com:nonsequitur/inf-ruby.git
