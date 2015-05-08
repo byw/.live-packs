@@ -13,3 +13,6 @@
 [submodule "ruby-pack/lib/inf-ruby"]
 	path = ruby-pack/lib/inf-ruby
 	url = git@github.com:nonsequitur/inf-ruby.git
+[submodule "bob-pack/lib/highlight-symbol.el"]
+	path = bob-pack/lib/highlight-symbol.el
+	url = git@github.com:nschum/highlight-symbol.el.git
