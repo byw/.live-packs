@@ -13,3 +13,9 @@
 [submodule "ruby-pack/lib/inf-ruby"]
 	path = ruby-pack/lib/inf-ruby
 	url = git@github.com:nonsequitur/inf-ruby.git
+[submodule "bob-pack/lib/scss-mode"]
+	path = bob-pack/lib/scss-mode
+	url = git@github.com:antonj/scss-mode.git
+[submodule "bob-pack/lib/haml-mode"]
+	path = bob-pack/lib/haml-mode
+	url = git@github.com:nex3/haml-mode.git
