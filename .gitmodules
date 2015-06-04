@@ -19,3 +19,6 @@
 [submodule "bob-pack/lib/haml-mode"]
 	path = bob-pack/lib/haml-mode
 	url = git@github.com:nex3/haml-mode.git
+[submodule "bob-pack/lib/highlight-symbol.el"]
+	path = bob-pack/lib/highlight-symbol.el
+	url = git@github.com:nschum/highlight-symbol.el.git
