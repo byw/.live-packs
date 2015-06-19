@@ -22,3 +22,6 @@
 [submodule "bob-pack/lib/highlight-symbol.el"]
 	path = bob-pack/lib/highlight-symbol.el
 	url = git@github.com:nschum/highlight-symbol.el.git
+[submodule "bob-pack/lib/git-timemachine"]
+	path = bob-pack/lib/git-timemachine
+	url = git@github.com:pidu/git-timemachine.git
