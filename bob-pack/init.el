@@ -18,12 +18,19 @@
 (live-add-pack-lib "haml-mode")
 (require 'haml-mode)
 
+;; live pairing
+(live-add-pack-lib "floobits")
+(require 'floobits)
+
+(live-add-pack-lib "git-timemachine")
+(require 'git-timemachine)
+
 (eval-after-load 'tramp '(setenv "SHELL" "/bin/bash"))
 
 
 (setq exec-path (append exec-path '("~/bin")))
 
-(setq clojure-defun-style-default-indent t)
+(setq clojure-defun-style-default-indent nil)
 
 ;; tramp
 (setq tramp-default-method "ssh")
