@@ -18,10 +18,6 @@
 (live-add-pack-lib "haml-mode")
 (require 'haml-mode)
 
-;; live pairing
-(live-add-pack-lib "floobits")
-(require 'floobits)
-
 (live-add-pack-lib "git-timemachine")
 (require 'git-timemachine)
 
