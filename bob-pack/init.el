@@ -64,3 +64,5 @@
   (swaggered 2)
   (context 2)
   (context* 2))
+
+(windmove-default-keybindings)
